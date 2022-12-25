@@ -20,11 +20,12 @@
 - secret: VARCHAR, 64;
 секретное слово для восстановления пароля
 ## 5. Алгоритмы
-1. [Регистрация](https://imgur.com/a/v0FjTse)
-2. [Авторизация](https://imgur.com/a/1pyMENC)
-3. [Выход](https://imgur.com/a/J0175Fl)
-4. [Обновление пароля](https://imgur.com/a/Gvue2Dl)
-5. [Восстановление пароля](https://imgur.com/a/AnaJyg9)
+1. Регистрация
+<image src="Registration - Imgur.png " ></image>
+2. Авторизация
+<image src="Enter - Imgur.png " ></image>
+3. Выход
+<image src="Logout - Imgur.png " ></image>
 ## 6. Примеры HTTP запросов/ответов
 ### Регистрация
 <br> GET /reg.php HTTP/1.1
