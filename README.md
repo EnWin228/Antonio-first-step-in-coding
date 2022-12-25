@@ -5,9 +5,9 @@
 ## 1. Пользовательский интерфейс
 Все формы были сделаны без стилей css.
 ## 2. Пользовательские сценарии работы
-<image src=".jpg" >
+<image src="ttYo0Dn.png " ></image>
 ## 3. API сервера и хореография
-  <image src=".jpg" >
+  <image src="undefined - Imgur.png" ></image>
 ## 4. Структура базы данных
 | id | login | hash | secword |
 |:---|:------|:-----|:--------|
